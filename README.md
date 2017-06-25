@@ -14,7 +14,7 @@ go-boilerplate is a collection of various files that usually accompanies a Go pr
 Currently, the easiest way of starting a new project based on this boilerplate is to clone it and remove a `.git` directory. For example:
 
 ```bash
-$ git clone --depth=1 --branch=master git://adambabik/go-boilerplate new-go-project
+$ git clone --depth=1 --branch=master git@github.com:adambabik/go-boilerplate.git new-go-project
 $ rm -rf new-go-project/.git
 ```
 
